@@ -15,9 +15,13 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return inertia('Welcome');
+    return inertia('Home');
 });
 
-Route::get('/contact', function () {
-    return inertia('Contact');
-});
+// Route::get('/contact', function () {
+//     return inertia('Contact');
+// });
+
+// Route::get('/port', function () {
+//     return inertia('Port');
+// });
