@@ -10,11 +10,10 @@ module.exports = {
     ],
     safelist: ["active"],
     theme: {
-        fontFamily: {
-            header: ["Raleway", "sans-serif"],
-            body: ["Open Sans", "sans-serif"],
-        },
-
+        // fontFamily: {
+        //     header: ["Raleway", "sans-serif"],
+        //     body: ["Open Sans", "sans-serif"],
+        // },
         screens: {
             xs: "375px",
             ...defaultTheme.screens,
@@ -39,6 +38,7 @@ module.exports = {
             "hero-gradient-to": "rgba(65, 47, 144, 0.93)",
             "blog-gradient-from": "#8f9098",
             "blog-gradient-to": "#222222",
+            "blue-400": "rgba(96, 165, 250, var(--tw-bg-opacity));"
         },
 
         container: {
