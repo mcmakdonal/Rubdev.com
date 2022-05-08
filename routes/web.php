@@ -1,7 +1,6 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-// use Inertia\Inertia;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,10 +17,26 @@ Route::get('/', function () {
     return inertia('Home');
 });
 
-// Route::get('/contact', function () {
-//     return inertia('Contact');
-// });
+Route::get('/services', function () {
+    return inertia('Services');
+});
 
-// Route::get('/port', function () {
-//     return inertia('Port');
-// });
+Route::get('/portfolio', function () {
+    return inertia('Portfolio');
+});
+
+Route::get('/clients', function () {
+    return inertia('Clients');
+});
+
+Route::get('/work', function () {
+    return inertia('Work');
+});
+
+Route::get('/blog', function () {
+    return inertia('Blog');
+});
+
+Route::get('/contact', function () {
+    return inertia('Contact');
+});
