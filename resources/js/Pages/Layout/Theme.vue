@@ -1,16 +1,16 @@
 <template>
-
     <Head>
         <title>{{ title }}</title>
-        <meta name="description" content="Your page description">
+        <!-- <meta name="description" content="Your page description"> -->
     </Head>
+
     <div id="main" class="relative">
         <div class="w-full z-50 top-0 py-3 sm:py-5  absolute">
             <div class="container flex items-center justify-between">
                 <div>
-                    <a href="/">
+                    <Link href="/">
                         <img src="/assets/img/rubdev.png" class="w-24 lg:w-48" alt="logo image" />
-                    </a>
+                    </Link>
                 </div>
                 <div class="hidden lg:block">
                     <ul class="flex items-center">
@@ -31,9 +31,9 @@
                             <LinkMenuVue path="work" name="Work"></LinkMenuVue>
                         </li>
 
-                        <li class="group pl-6">
+                        <!-- <li class="group pl-6">
                             <LinkMenuVue path="blog" name="Blog"></LinkMenuVue>
-                        </li>
+                        </li> -->
 
                         <li class="group pl-6">
                             <LinkMenuVue path="contact" name="Contact"></LinkMenuVue>
@@ -77,9 +77,9 @@
                         <LinkMenuVue path="work" name="Work"></LinkMenuVue>
                     </li>
 
-                    <li class="py-2">
+                    <!-- <li class="py-2">
                         <LinkMenuVue path="blog" name="Blog"></LinkMenuVue>
-                    </li>
+                    </li> -->
 
                     <li class="py-2">
                         <LinkMenuVue path="contact" name="Contact"></LinkMenuVue>
@@ -93,18 +93,18 @@
             <div class="absolute inset-0 z-20 bg-gradient-to-r bg-cover bg-center bg-no-repeat">
             </div>
 
-            <div class="container relative z-30 pt-20 pb-12 sm:pt-56 sm:pb-48 lg:pt-64 lg:pb-48">
+            <div class="container relative z-30 pt-20 pb-12 sm:pt-56 sm:pb-48 lg:pt-40 lg:pb-20">
                 <div class="flex flex-col items-center justify-center lg:flex-row">
                     <div class="rounded-full border-8 border-primary shadow-xl">
                         <img src="/assets/img/blog-author.jpg" class="h-48 rounded-full sm:h-56" alt="author" />
                     </div>
                     <div class="pt-8 sm:pt-10 lg:pl-8 lg:pt-0">
                         <h1 class="text-center font-header text-4xl text-white sm:text-left sm:text-5xl md:text-6xl">
-                            Hello I'm Christy Smith!
+                            Hello I'm Natdanai Upathong
                         </h1>
                         <div class="flex flex-col justify-center pt-3 sm:flex-row sm:pt-5 lg:justify-start">
                             <div class="flex items-center justify-center pl-0 sm:justify-start md:pl-1">
-                                <p class="font-body text-lg uppercase text-white">Let's connect</p>
+                                <p class="font-body text-lg uppercase text-white">Nickname: Mak</p>
                                 <div class="hidden sm:block">
                                     <i class="bx bx-chevron-right text-3xl text-yellow"></i>
                                 </div>
