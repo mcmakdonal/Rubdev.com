@@ -8,7 +8,7 @@
                     My work experience
                 </h2>
                 <h3 class="pt-6 text-center font-header text-xl font-medium text-black sm:text-2xl lg:text-3xl">
-                    Here's what I did before freelancing
+                    Here's what I did
                 </h3>
 
                 <div class="relative mx-auto mt-12 flex w-full flex-col lg:w-2/3">
@@ -18,7 +18,7 @@
                         <div class="md:w-2/5">
                             <div class="flex justify-center md:justify-start">
                                 <span class="shrink-0">
-                                    <img src="/assets/img/logo-spotify.svg" class="h-auto w-32" alt="company logo" />
+                                    <img src="/assets/img/work/betimes.png" class="h-auto w-32" alt="Betimes" />
                                 </span>
                                 <div class="relative ml-3 hidden w-full md:block">
                                     <span
@@ -34,9 +34,9 @@
                                 <div class="mt-1 flex">
                                     <i class="bx bxs-right-arrow hidden text-primary md:block"></i>
                                     <div class="md:-mt-1 md:pl-8">
-                                        <span class="block font-body font-bold text-grey-40">Apr 2015 - Mar 2018</span>
+                                        <span class="block font-body font-bold text-grey-40">July 2016 - Oct 2020</span>
                                         <span
-                                            class="block pt-2 font-header text-xl font-bold uppercase text-primary">Frontend
+                                            class="block pt-2 font-header text-xl font-bold uppercase text-primary">Junior Web
                                             Developer</span>
                                         <div class="pt-2">
                                             <span class="block font-body text-black">Lorem ipsum dolor sit amet,
@@ -50,11 +50,12 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="mt-8 flex flex-col text-center md:flex-row md:text-left">
                         <div class="md:w-2/5">
                             <div class="flex justify-center md:justify-start">
                                 <span class="shrink-0">
-                                    <img src="/assets/img/logo-microsoft.svg" class="h-auto w-32" alt="company logo" />
+                                    <img src="/assets/img/work/shippop.svg" class="h-auto w-32" alt="Shippop" />
                                 </span>
                                 <div class="relative ml-3 hidden w-full md:block">
                                     <span
@@ -70,11 +71,9 @@
                                 <div class="mt-1 flex">
                                     <i class="bx bxs-right-arrow hidden text-primary md:block"></i>
                                     <div class="md:-mt-1 md:pl-8">
-                                        <span class="block font-body font-bold text-grey-40">Mar 2018 - September
-                                            2019</span>
+                                        <span class="block font-body font-bold text-grey-40">Oct 2020 - March 2022</span>
                                         <span
-                                            class="block pt-2 font-header text-xl font-bold uppercase text-primary">Software
-                                            Engineer</span>
+                                            class="block pt-2 font-header text-xl font-bold uppercase text-primary">Senior Web Developer / WordPress Developer</span>
                                         <div class="pt-2">
                                             <span class="block font-body text-black">Lorem ipsum dolor sit amet,
                                                 consectetur adipiscing
@@ -87,11 +86,12 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="mt-8 flex flex-col text-center md:flex-row md:text-left">
                         <div class="md:w-2/5">
                             <div class="flex justify-center md:justify-start">
                                 <span class="shrink-0">
-                                    <img src="/assets/img/logo-fedex.svg" class="h-auto w-32" alt="company logo" />
+                                    <img src="/assets/img/work/yeeraf.png" class="h-auto w-32" alt="Yeeraf" />
                                 </span>
                                 <div class="relative ml-3 hidden w-full md:block">
                                     <span
@@ -107,11 +107,9 @@
                                 <div class="mt-1 flex">
                                     <i class="bx bxs-right-arrow hidden text-primary md:block"></i>
                                     <div class="md:-mt-1 md:pl-8">
-                                        <span class="block font-body font-bold text-grey-40">October 2019 - Feb
-                                            2021</span>
+                                        <span class="block font-body font-bold text-grey-40">March 2022 - Present</span>
                                         <span
-                                            class="block pt-2 font-header text-xl font-bold uppercase text-primary">DevOps
-                                            Engineer</span>
+                                            class="block pt-2 font-header text-xl font-bold uppercase text-primary">Fullstack Developer</span>
                                         <div class="pt-2">
                                             <span class="block font-body text-black">Lorem ipsum dolor sit amet,
                                                 consectetur adipiscing

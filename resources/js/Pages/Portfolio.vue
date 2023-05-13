@@ -12,10 +12,10 @@
                 </h3>
 
                 <div class="mx-auto grid w-full grid-cols-1 gap-8 pt-12 sm:w-3/4 md:gap-10 lg:w-full lg:grid-cols-2">
-                    <a href="/" class="mx-auto transform transition-all hover:scale-105 md:mx-0">
-                        <img src="/assets/img/portfolio-apple.jpeg" class="w-full shadow" alt="portfolio image" />
+                    <a href="javascript: void;" class="mx-auto transform transition-all hover:scale-105 md:mx-0">
+                        <img src="/assets/img/portfolio/wordpress1.jpg" class="w-full shadow" alt="wordpress" />
                     </a>
-                    <a href="/" class="mx-auto transform transition-all hover:scale-105 md:mx-0">
+                    <!-- <a href="/" class="mx-auto transform transition-all hover:scale-105 md:mx-0">
                         <img src="/assets/img/portfolio-stripe.jpeg" class="w-full shadow" alt="portfolio image" />
                     </a>
                     <a href="/" class="mx-auto transform transition-all hover:scale-105 md:mx-0">
@@ -23,7 +23,7 @@
                     </a>
                     <a href="/" class="mx-auto transform transition-all hover:scale-105 md:mx-0">
                         <img src="/assets/img/portfolio-microsoft.jpeg" class="w-full shadow" alt="portfolio image" />
-                    </a>
+                    </a> -->
                 </div>
             </div>
 
